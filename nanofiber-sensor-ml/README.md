@@ -16,11 +16,8 @@ Machine learning analysis of flexible capacitive pressure sensors.
 
 ## Results
 
-### Project 1 — GPR Sensitivity Prediction
-![GPR Uncertainty](nanofiber-sensor-ml/outputs/01_gpr_uncertainty.png)
-
-### Project 2 — Feature Importance
-![Feature Importance](nanofiber-sensor-ml/outputs/02_feature_importance.png)
+![GPR Uncertainty](nanofiber-sensor-ml/nanofiber-sensor-ml/outputs/01_gpr_uncertainty.png)
+![Feature Importance](nanofiber-sensor-ml/nanofiber-sensor-ml/outputs/02_feature_importance.png)
 
 ## Key findings
 - Coaxial sensor peak sensitivity: **1.086 ± 0.005 kPa⁻¹ at 1 kPa**
